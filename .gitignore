@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libpostald
+libpostald.so
+libpostald.dylib
+libpostald.dll
+libpostald.a
+libpostald.lib
+libpostald-test-*
+*.exe
+*.o
+*.obj
+*.lst

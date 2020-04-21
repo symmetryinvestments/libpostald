@@ -1,0 +1,3 @@
+module libpostalbinding;
+
+#include "libpostal.h"

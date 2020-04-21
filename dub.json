@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Robert burner Schadek"
+	],
+	"copyright": "Copyright © 2020, Symmetry Investments LP",
+	"description": "A binding to libpostal",
+	"license": "LGPL3",
+	"name": "libpostald",
+	"libs": ["postal"]
+}
