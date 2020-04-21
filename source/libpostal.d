@@ -1,4 +1,4 @@
-module libpostalbinding;
+module libpostal;
 
 
         import core.stdc.config;

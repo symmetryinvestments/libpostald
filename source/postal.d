@@ -29,7 +29,7 @@ struct Postal {
 @safe:
 	import std.array : empty, front;
 	import std.string : fromStringz, toStringz;
-	import libpostalbinding;
+	import libpostal;
 	static bool hasBeenInited;
 
 	private static void checkInit() {
